@@ -1,0 +1,14 @@
+[
+{
+  "directory": "C:/proga/lab6/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -g -o CMakeFiles\\tearet.dir\\main.cpp.obj -c C:\\proga\\lab6\\main.cpp",
+  "file": "C:\\proga\\lab6\\main.cpp",
+  "output": "CMakeFiles\\tearet.dir\\main.cpp.obj"
+},
+{
+  "directory": "C:/proga/lab6/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -g -o CMakeFiles\\tearet.dir\\matrix.cpp.obj -c C:\\proga\\lab6\\matrix.cpp",
+  "file": "C:\\proga\\lab6\\matrix.cpp",
+  "output": "CMakeFiles\\tearet.dir\\matrix.cpp.obj"
+}
+]
